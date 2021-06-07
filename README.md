@@ -37,6 +37,8 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<img align="left" alt="Git" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.enliten-it.com%2Fcourses%2Fmicrosoft-bi-training-courses%2F&psig=AOvVaw2T6lak6CJOKMPdbEDX5amp&ust=1623151432664000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCsvbu0hfECFQAAAAAdAAAAABAJ" />
+
 <br />
 <br />
 
