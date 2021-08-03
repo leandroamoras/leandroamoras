@@ -11,9 +11,9 @@
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/leandro-amoras/)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@amorasleandro)
+[<img align="left" alt="amoras | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@amorasleandro)
 
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/amoras.97/)
+[<img align="left" alt="Leandro_Amoras | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/amoras.97/)
 
 
 
@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="Leandro's Github Stats" theme=radical src="https://github-readme-stats.vercel.app/api?username=leandroamoras&show_icons=true&hide_border=true" />
+<img align="left" alt="Leandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leandroamoras&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/@amorasleandro
 [linkedin]: https://www.linkedin.com/in/leandro-amoras/
