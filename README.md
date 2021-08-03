@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="Leandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leandroamoras&show_icons=true&hide_border=true" />
+<img align="left" alt="Leandro's Github Stats" theme=radical src="https://github-readme-stats.vercel.app/api?username=leandroamoras&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/@amorasleandro
 [linkedin]: https://www.linkedin.com/in/leandro-amoras/
