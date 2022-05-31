@@ -1,4 +1,4 @@
-### Leandro Amoras - [Data Scientist] 👋
+### Leandro Amoras - [Data Engineer] 👋
 
 ## I'm a Computer Science student turned data scientist and love leveraging data-driven solutions that impact business and society!
 
