@@ -2,10 +2,9 @@
 
 ## I'm a Computer Science student turned data scientist and love leveraging data-driven solutions that impact business and society!
 
-- 💻 I’m a Data Scientist
-- 💻 I'm also working as a CTO on Dynamis
+- 💻 I’m a Data Engineer
 - 📈 I’m constantly learning and Improving my skills 🤣
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 📊 I’m looking to collaborate with other Data Engineer and Developers 
 
 ### Connect with me:
 
