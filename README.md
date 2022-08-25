@@ -1,6 +1,12 @@
 ### Leandro Amoras - [Data Engineer] 👋
 
-## I'm a Computer Science student turned data scientist and love leveraging data-driven solutions that impact business and society!
+I am a Computer Science student at the Pontifical Catholic University of Goiás. I come from a great trajectory in the market, going through the positions of Data Analyst I, IT Consultant II, Data Scientist I in large companies such as Enrst & Young, currently I work as Data Engineer II at Porto Seguro.
+
+I have tremendous passion and understanding of data-driven processes. I seek to get involved in projects with a significant impact on business and society decisions.
+
+In my spare time, I like to play video games, play guitar, produce electronic music or play football.
+
+Well that's me! Welcome to my codespace.
 
 - 💻 I’m a Data Engineer
 - 📈 I’m constantly learning and Improving my skills 🤣
