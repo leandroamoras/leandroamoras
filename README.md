@@ -9,9 +9,9 @@ In my spare time, I like to play video games, play guitar, produce electronic mu
 Well that's me! Welcome to my codespace.
 
 
-- 💻 I’m a Data Engineer
-- 📈 I’m constantly learning and Improving my skills 🤣
-- 📊 I’m looking to collaborate with other Data Engineer and Developers 
+- 💻 I’m a Data Engineer!
+- 📈 I’m constantly learning and Improving my skills! 🤣
+- 📊 I’m looking to collaborate with other Data Engineer and Developers!
 
 ### Connect with me:
 
